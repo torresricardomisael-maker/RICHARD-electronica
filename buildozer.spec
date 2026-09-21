@@ -13,8 +13,7 @@ requirements = python3,kivy,reportlab,plyer,pillow
 orientation = portrait
 fullscreen = 0
 
-icon.filename = %(source.dir)s/icon.png
-# Elimina o comenta la linea anterior si no tienes un icon.png en la carpeta
+icon.filename = %(source.dir)s/logo.png
 
 
 android.permissions = CAMERA,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,INTERNET
