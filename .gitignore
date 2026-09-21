@@ -1,0 +1,6 @@
+.venv/
+richard_data/
+__pycache__/
+*.pyc
+.buildozer/
+bin/
